@@ -1,7 +1,7 @@
 ---
 title: "Achieving Model Accuracy and Robustness by Adversarial Training with Batch Normalization"
 collection: publications
-permalink: https://github.com/NioTheFirst/Brian-Zhang-.github.io/blob/60ec685f9eff91ce9ce2486c13bdcbd87892b341/files/ictai22.pdf
+permalink: /files/ictai22.pdf
 excerpt: 'We propose a novel adversarial training method called norm shaping, in which a model always uses batch norms in both adversarial training and inference.'
 date: 2022-010-31
 venue: 'ICTAI'22'
