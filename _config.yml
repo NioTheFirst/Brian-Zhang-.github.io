@@ -56,6 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+discord:
+  username               : "ItsNio#9708"
 twitter:
   username               : "@BrianZh11859071"
 facebook:
