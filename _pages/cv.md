@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink:/files/My_Curriculum_Vitae.2.pdf
+permalink:/cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Backup](http://NioTheFirst.github.io/Brian-Zhang-.github.io/files/My_Curriculum_Vitae.2.pdf)
+[Download CV](http://NioTheFirst.github.io/Brian-Zhang-.github.io/files/My_Curriculum_Vitae.2.pdf)
