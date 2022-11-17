@@ -14,4 +14,3 @@ We propose a novel adversarial training method called norm shaping, in which a m
 
 No download link yet  
 
-No recommended citation yet  
