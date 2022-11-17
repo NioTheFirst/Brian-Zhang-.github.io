@@ -6,7 +6,7 @@ excerpt: 'We propose a novel adversarial training method called norm shaping, in
 date: 2022-10-31
 venue: 'ICTAI 22'
 paperurl: ''
-authors: BZ
+citations: No citation yet
 ---
 We propose a novel adversarial training method called norm shaping, in which a model always uses batch norms in both adversarial training and inference.  
 
