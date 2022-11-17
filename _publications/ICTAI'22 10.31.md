@@ -10,7 +10,7 @@ citation: No citation yet
 ---
 We propose a novel adversarial training method called norm shaping, in which a model always uses batch norms in both adversarial training and inference.  
 
-[Paper](https://github.com/NioTheFirst/Brian-Zhang-.github.io/blob/master/files/ictai22.pdf)  
+[Paper](http://NioTheFirst.github.io/Brian-Zhang-.github.io/files/ictai22.pdf)  
 
 No download link yet  
 
