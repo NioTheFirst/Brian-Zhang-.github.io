@@ -6,4 +6,4 @@ tags:
   - blog
 ---
 
-<script src="https://gist.github.com/NioTheFirst/018502d7a6f749b91bd50a5291ee15ec.js"></script>
+[Click here:](https://hackmd.io/HwTWYl5WQ9qL2fgKjh6u-w?view)
