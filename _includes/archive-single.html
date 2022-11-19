@@ -61,8 +61,11 @@
     {% endif %}
 
     {% if post.collection == 'publications' %}
-      <p> Slides: {{ post.slides}} </p>
-      <p> Video: {{ post.video}} </p>
+      <p> Slides <a href=" {{ post.slides }} "><u>here</u></a></p>
+      <video width="320" height="240" controls>
+        <source src="post.video" type="video/mp4">
+       Your browser does not support the video tag.
+      </video>
     {% endif %}
 
   </article>
