@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brian Zhang / My Personal Page"
+title                    : "Brian Zhang / Home Page"
 title_separator          : "-"
 name                     : &name "Brian Zhang"
 description              : &description "High School Student attending William Henry Harrison High School"
