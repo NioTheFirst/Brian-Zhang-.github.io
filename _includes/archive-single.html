@@ -61,7 +61,11 @@
     {% endif %}
 
     
-    {% if post.slides %}
+    {% if post.slides and post.poster%}
+      <p> <a href=" {{ post.slides }} "><u>[Slides]</u></a> <a href=" {{ post.posters }} "><u>[Poster]</u></a></p>
+    {% elsif post.poster %}
+      <p> <a href=" {{ post.posters }} "><u>[Poster]</u></a></p>
+    {% elsif post.slides %}
       <p> <a href=" {{ post.slides }} "><u>[Slides]</u></a></p>
     {% endif %}
 
@@ -72,9 +76,6 @@
       </video>
     {% endif %}
 
-    {% if post.poster %}
-      <p> <a href=" {{ post.posters }} "><u>[Poster]</u></a></p>
-    {% endif %}
 
   </article>
 </div>
