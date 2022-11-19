@@ -60,8 +60,15 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
-    {% if post.collection == 'publications' %}
+    {% if post.slides and post.video%}
       <p> Slides <a href=" {{ post.slides }} "><u>here</u></a></p>
+      <video width="320" height="240" controls>
+        <source src="{{ post.video }}" type="video/mp4">
+       Your browser does not support the video tag.
+      </video>
+    {% elsif post.slides}
+      <p> Slides <a href=" {{ post.slides }} "><u>here</u></a></p>
+    {% elseif post.video}
       <video width="320" height="240" controls>
         <source src="{{ post.video }}" type="video/mp4">
        Your browser does not support the video tag.
