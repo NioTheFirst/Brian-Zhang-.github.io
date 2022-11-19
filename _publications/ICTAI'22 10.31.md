@@ -4,6 +4,8 @@ collection: publications
 permalink: /ictai22.pdf
 excerpt: 'We propose a novel adversarial training method called norm shaping, in which a model always uses batch norms in both adversarial training and inference.'
 date: 2022-10-31
+slides:
+video:
 venue: 'ICTAI 22'
 paperurl: ''
 citation: No citation yet
