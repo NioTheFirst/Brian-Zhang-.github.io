@@ -60,19 +60,20 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
-    {% if post.slides and post.video%}
-      <p> Slides <a href=" {{ post.slides }} "><u>here</u></a></p>
+    
+    {% if post.slides %}
+      <p> <a href=" {{ post.slides }} "><u>[Slides]</u></a></p>
+    {% endif %}
+
+    {% if post.video %}
       <video width="320" height="240" controls>
         <source src="{{ post.video }}" type="video/mp4">
        Your browser does not support the video tag.
       </video>
-    {% elsif post.slides %}
-      <p> Slides <a href=" {{ post.slides }} "><u>here</u></a></p>
-    {% elsif post.video %}
-      <video width="320" height="240" controls>
-        <source src="{{ post.video }}" type="video/mp4">
-       Your browser does not support the video tag.
-      </video>
+    {% endif %}
+
+    {% if post.poster %}
+      <p> <a href=" {{ post.posters }} "><u>[Poster]</u></a></p>
     {% endif %}
 
   </article>
