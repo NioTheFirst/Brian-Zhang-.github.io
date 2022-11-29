@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[View CV](https://NioTheFirst.github.io/Brian_Application.pdf)
+[View CV](https://NioTheFirst.github.io/CV11.28.22.pdf)
