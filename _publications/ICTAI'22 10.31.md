@@ -7,7 +7,7 @@ excerpt: 'We propose a novel adversarial training method called norm shaping, in
 date: 2022-10-31
 slides: https://NioTheFirst.github.io/ICTAI_Slides.pdf
 video:
-venue: 'ICTAI 22'
+venue: 'International Conference on Tools with Artificial Intelligence (ICTAI)'
 paperurl: ''
 authors: ' Brian Zhang, Shiqing Ma'
 citation: No citation yet
