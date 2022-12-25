@@ -9,6 +9,7 @@ slides: https://NioTheFirst.github.io/ICTAI_Slides.pdf
 video:
 venue: 'ICTAI 22'
 paperurl: ''
+authors: ' Brian Zhang, Shiqing Ma'
 citation: No citation yet
 ---
 We propose a novel adversarial training method called norm shaping, in which a model always uses batch norms in both adversarial training and inference.  
