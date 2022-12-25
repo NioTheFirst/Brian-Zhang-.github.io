@@ -12,7 +12,7 @@ I am a high school student currently attending William Henry Harrison High Schoo
 
 Updates
 ======
->___12/24/22:___ Achieved [USACO Platinum Status] (https://niothefirst.github.io/PLAT.png)
+>___12/24/22:___ Achieved ![___USACO PLatinum Status___](https://niothefirst.github.io/PLAT.png)
 
 >___12/8/22:___ One paper accepted to ___ICSE'23___  
 
