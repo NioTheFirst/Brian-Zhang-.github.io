@@ -20,7 +20,7 @@ Updates
 
 >___11/7/22:___   Awarded high school student ___John Kim___ as the first ever winner of the ___Harrison Software Auditing Competition___!  
 
->___11/1/22:___   Presented at the ___CESC'22___ conference in Berkely  
+>___11/1/22:___   Presented at the ___CESC'22___ conference in Berkeley  
 ![Poster](https://niothefirst.github.io/PosterNoppl.jpg)  ![PosterII](https://niothefirst.github.io/talkposterppl.jpg) ![Present](https://niothefirst.github.io/IMG_0718.jpg)
 
 >___10/31/22:___   Presented at the virtual ___ICTAI'22___ conference     
