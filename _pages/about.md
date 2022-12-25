@@ -12,6 +12,10 @@ I am a high school student currently attending William Henry Harrison High Schoo
 
 Updates
 ======
+>___12/24/22:___ Achieved USACO Platinum Status  
+
+>___12/8/22:___ One paper accepted to ___ICSE'23___  
+
 >___11/13/22:___   Recieved [___ICTAI'22 Best Student Paper Recognition___    ](http://niothefirst.github.io/ICTAI22_Best_Student.pdf)  
 
 >___11/7/22:___   Awarded high school student ___John Kim___ as the first ever winner of the ___Harrison Software Auditing Competition___!  
