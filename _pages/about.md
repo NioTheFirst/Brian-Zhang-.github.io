@@ -12,6 +12,9 @@ I am a high school student currently attending William Henry Harrison High Schoo
 
 Updates
 ======
+
+___WIP___
+
 >___1/18/23:___ Recieved a Nominanation for the ___U.S. Presidential Scholars Program___ (only 85 nominations within Indiana)   
 
 >___12/24/22:___ Achieved ___USACO Platinum Status___: ![___USACO PLatinum Status___](https://niothefirst.github.io/PLAT2.png)
