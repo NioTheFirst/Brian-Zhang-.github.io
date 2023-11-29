@@ -7,7 +7,7 @@ excerpt: ' In this paper, we motivate the detection of accounting errors in smar
 slides: 
 poster: 
 video: 
-date: 2024-4-013
+date: 2024-4-13
 venue: 'International Conference on Software Engineering 2024 (ICSE)'
 paperurl: ''
 authors: ' Brian Zhang (solo) '
