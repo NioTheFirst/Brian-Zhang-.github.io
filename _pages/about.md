@@ -15,6 +15,14 @@ Updates
 
 ___WIP___
 
+>___10/11/23___ One solo-author paper accepted to ___ICSE'24___
+
+>___8/1/23___ Invited by PwnedNoMore for a $5000 internship to audit a smart contract
+
+>___5/23/23___ Presented at ___ICSE'23___ in Melbourne, Australia
+
+>___3/2/23:___ Invited for an [___interview___](https://medium.com/code4rena/demystifying-exploitable-bugs-in-smart-contracts-with-zhuo-and-brian-f8649d4c427f) with Code4rena
+
 >___1/18/23:___ Recieved a Nominanation for the ___U.S. Presidential Scholars Program___ (only 85 nominations within Indiana)   
 
 >___12/24/22:___ Achieved ___USACO Platinum Status___: ![___USACO PLatinum Status___](https://niothefirst.github.io/PLAT2.png)
