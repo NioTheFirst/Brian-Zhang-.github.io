@@ -2,7 +2,7 @@
 title: "Towards Finding Accounting Errors in Smart Contracts"
 collection: publications
 permalink:
-burl: https://NioTheFirst.github.io/icse24.pdf
+burl: https://NioTheFirst.github.io/icse2024.pdf
 excerpt: ' In this paper, we motivate the detection of accounting errors in smart contracts by introducing an automated tool which utilized refinement types for type checking. The tool outperforms current state-of-the-art tools.'
 slides: 
 poster: 
@@ -15,7 +15,7 @@ citation: No citation yet
 ---
 
 
-[Paper](https://NioTheFirst.github.io/icse24.pdf)
+[Paper](https://NioTheFirst.github.io/icse2024.pdf)
 
 
 
